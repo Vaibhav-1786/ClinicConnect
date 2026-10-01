@@ -16,7 +16,7 @@ Only the latest commit on the `main` branch receives security fixes.
 **Please do not open a public issue for security problems.**
 
 1. Use GitHub's private reporting: **Security → Report a vulnerability** on this repository (preferred), or
-2. Email the maintainer, Vaibhav Chauhan, at `<your-email@example.com>` *(replace before publishing)*.
+2. Email the maintainer, Vaibhav Chauhan, at "vaibhavchauhan1786@gmail.com".
 
 Please include:
 - A description of the issue and its impact
