@@ -1,4 +1,4 @@
-# ClinicConnect — Clinic & Hospital Management Platform
+# 🏥ClinicConnect — Clinic & Hospital Management Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![React](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite-61dafb)
