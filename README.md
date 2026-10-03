@@ -114,6 +114,7 @@ clinic-management/
 ├── SECURITY.md
 └── LICENSE
 ```
+---
 
 ## Architecture 
 
