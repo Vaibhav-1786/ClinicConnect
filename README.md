@@ -15,6 +15,7 @@ It is available in **English, Hindi and Gujarati** and can be installed as a PWA
 ## Table of contents
 
 - [Features](#features)
+- [Project Demo](#Project-Demo)
 - [Tech stack](#tech-stack)
 - [Project structure](#project-structure)
 - [Architecture](#Architecture )
@@ -70,6 +71,8 @@ It is available in **English, Hindi and Gujarati** and can be installed as a PWA
 - PWA with offline app shell and read-only offline receptionist queue
 - Responsive layout (phone → large monitor), light/dark theme
 - Database-enforced double-booking protection
+
+---
 
 ---
 
