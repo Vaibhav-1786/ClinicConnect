@@ -73,6 +73,12 @@ It is available in **English, Hindi and Gujarati** and can be installed as a PWA
 
 ---
 
+## Project Demo
+
+https://ireel.today/v/4c52a7623f 
+
+---
+
 ## Tech stack
 
 | Layer | Technology |
