@@ -17,6 +17,7 @@ It is available in **English, Hindi and Gujarati** and can be installed as a PWA
 - [Features](#features)
 - [Tech stack](#tech-stack)
 - [Project structure](#project-structure)
+- [Architecture](#Architecture )
 - [Getting started](#getting-started)
 - [Configuration](#configuration)
 - [Demo accounts](#demo-accounts)
@@ -113,6 +114,11 @@ clinic-management/
 ├── SECURITY.md
 └── LICENSE
 ```
+
+## Architecture 
+
+<img width="11144" height="9793" alt="diagram" src="https://github.com/user-attachments/assets/9371337c-8d94-4b56-89bd-f939100229b7" />
+
 
 ---
 
